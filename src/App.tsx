@@ -1,8 +1,7 @@
-import React from 'react';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import ImageGenerator from './components/ImageGenerator';
-import './App.css'; // Pastikan file CSS Anda di-import jika ada
+import './App.css'; 
 
 function App() {
   return (
