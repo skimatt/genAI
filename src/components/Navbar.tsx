@@ -6,8 +6,7 @@ const Navbar: React.FC = () => {
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <a href="/" className="text-2xl font-bold text-gray-800 tracking-tight">AI Gen</a>
         <div className="flex space-x-6">
-          <a href="/about" className="text-gray-600 hover:text-indigo-600 transition-colors">Tentang</a>
-          <a href="/something-big" className="text-gray-600 hover:text-indigo-600 transition-colors">Proyek</a>
+          
         </div>
       </div>
     </nav>
